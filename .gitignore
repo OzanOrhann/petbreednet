@@ -3,3 +3,9 @@ __pycache__/
 data/processed/
 checkpoints/
 *.ipynb_checkpoints/
+!checkpoints/**
+!checkpoints/*.ts
+!checkpoints/*.onnx
+!checkpoints/*.pth
+!checkpoints/classes.txt
+
